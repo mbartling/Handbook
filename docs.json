@@ -855,19 +855,19 @@
                 "title": "Optimizing",
                 "sources": [{
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/5.7/docs/tutorials/optimize/memory/memory_intro.md"
+                        "url": "https://github.com/mbartling/Handbook/blob/mem/docs/tutorials/optimize/memory/memory_intro.md"
                     },
                     {
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/5.7/docs/tutorials/optimize/memory/memap.md"
+                        "url": "https://github.com/mbartling/Handbook/blob/mem/docs/tutorials/optimize/memory/memap.md"
                     },
                     {
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/5.7/docs/tutorials/optimize/memory/runtime_mem_trace.md"
+                        "url": "https://github.com/mbartling/Handbook/blob/mem/docs/tutorials/optimize/memory/runtime_mem_trace.md"
                     },
                     {
                         "type": "markdown",
-                        "url": "https://github.com/ARMmbed/Handbook/blob/5.7/docs/tutorials/optimize/memory/runtime_stats.md"
+                        "url": "https://github.com/mbartling/Handbook/blob/mem/docs/tutorials/optimize/memory/runtime_stats.md"
                     }
                 ]
             }
