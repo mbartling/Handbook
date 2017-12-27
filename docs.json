@@ -859,8 +859,11 @@
                     },
                     {
                         "type": "markdown",
+                        "url": "https://github.com/mbartling/Handbook/blob/mem/docs/tutorials/optimize/memory/memory_model_details.md"
+                    },
+                    {
+                        "type": "markdown",
                         "url": "https://github.com/mbartling/Handbook/blob/mem/docs/tutorials/optimize/memory/static_memory_optimization.md"
-
                     },
                     {
                         "type": "markdown",
